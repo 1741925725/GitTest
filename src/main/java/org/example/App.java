@@ -10,5 +10,6 @@ public class App {
         System.out.println( "Hello World!" );
         System.out.println( "hot_fix" );
         System.out.println( "Hello World!" );
+        System.out.println( "测试ssh的push" );
     }
 }
